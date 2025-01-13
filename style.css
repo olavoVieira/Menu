@@ -1,6 +1,6 @@
 body {
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
-    background-repeat: no-repeat; /* Evita repetição */
+    background-repeat: no-repeat; /* Evita repetição na imagem de fundo */
     background-size: cover; /* Ajusta a imagem para cobrir todo a tela */
     font-family: Arial, Helvetica, sans-serif;
     padding: 20px;
